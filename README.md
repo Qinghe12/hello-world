@@ -2,6 +2,6 @@
 
 Hello, everyone:
 
-  wellcome to earth!!
+  welcome to earth!!
 
 
