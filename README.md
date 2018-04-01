@@ -1,2 +1,7 @@
 # hello-world
-jjin repository
+
+Hello, everyone:
+
+  welcome to earth!!
+
+
